@@ -1,4 +1,4 @@
-
+//The Player class is an abstract object that allows us to assign values to user and AI opponents.
 public abstract class Player {
 
 	private String name;
